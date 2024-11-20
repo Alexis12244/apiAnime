@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Attack on Titan",
+        "categoria": "Acción",
+        "descripcion": "Batallas épicas contra titanes"
+    },
+    {
+        "id": 2,
+        "nombre": "My Hero Academia",
+        "categoria": "Superhéroes",
+        "descripcion": "Estudiantes luchando para convertirse en héroes"
+    },
+    {
+        "id": 3,
+        "nombre": "Demon Slayer",
+        "categoria": "Aventura",
+        "descripcion": "Una lucha contra demonios para salvar a la humanidad"
+    },
+  {
+        "id": 4,
+        "nombre": "Dragon Ball Z",
+        "categoria": "Acción",
+        "descripcion": "Guerreros luchando para salvar el universo"
+    },
+    {
+        "id": 5,
+        "nombre": "Spy x Family",
+        "categoria": "Comedia",
+        "descripcion": "Un espía que forma una familia falsa para cumplir su misión"
+    }
+]
